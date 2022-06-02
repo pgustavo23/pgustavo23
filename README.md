@@ -11,12 +11,16 @@ Oi, eu sou o Gustavo!
   ```
   Em busca de novos desafios, dedicando bastante para adquirir novos conhecimentos como desenvolvedor!
  ```
-
   <br>
+    </h3>
   
-  </h3>
+   <h3 align="center">
   
-  ![Loading](https://olaargentina.com/wp-content/uploads/2019/11/loading-gif-transparent-10.gif)
+  ![Pikachu](https://pa1.narvii.com/6545/89f1e14806ffae9e301696386406908c3bb8b454_hq.gif)
+  
+  <br>
+    
+## Bootcamp: Geração Tech Unimed-BH | Fullstack   
  
    Tecnologias que estou aprendendo dentro do Bootcamp que estou participando: 
   * Git/GitHub
