@@ -8,9 +8,10 @@ Oi, eu sou o Gustavo!
  <br>
   </h3>
   
-  ```
-  Em busca de novos desafios, dedicando bastante para adquirir novos conhecimentos como desenvolvedor!
- ```
+  <h5 align="center">
+    
+   ```Em busca de novos desafios, dedicando bastante para adquirir novos conhecimentos como desenvolvedor!```
+  </h5
   <br>
     </h3>
   
