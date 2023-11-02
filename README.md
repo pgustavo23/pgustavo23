@@ -18,6 +18,8 @@ Oi, eu sou o Gustavo!
    <h3 align="center">
   
   [Pikachu](https://i.pinimg.com/originals/fe/61/dc/fe61dc2b7ef08a538b906eced7fa5cb5.gif)
+
+  [Recriando o jogo da cobrinha com JavaScript](https://web.dio.me/project/recriando-o-jogo-da-cobrinha-com-javascript/learning/bfcd37b9-4ccf-40fb-b0ea-c2d865414a19?back=/track/html-web-developer&tab=undefined&moduleId=undefined
   
   <br>
     
