@@ -17,7 +17,8 @@ Oi, eu sou o Gustavo!
   
    <h3 align="center">
   
-  ![img](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)
+  ![image](https://github.com/gustavo23pg/gustavo23pg/assets/52055399/59a4b3d9-4a3b-40ac-8ef6-8b99a2ee405c)
+
 
   <br>
     
