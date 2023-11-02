@@ -17,7 +17,7 @@ Oi, eu sou o Gustavo!
   
    <h3 align="center">
   
-  ![Pikachu]([https://pin.it/2PN4wXi](https://i.pinimg.com/originals/fe/61/dc/fe61dc2b7ef08a538b906eced7fa5cb5.gif))
+  ![Pikachu](https://media.tenor.com/uUNcnHwYJQEAAAAi/running-pikachu-transparent-snivee.gif)
 
   <br>
     
