@@ -17,7 +17,7 @@ Oi, eu sou o Gustavo!
   
    <h3 align="center">
   
-  ![image](pikachu.gif)
+  ![Pikachu](https://github.com/gustavo23pg/gustavo23pg/blob/main/pikachu.gif)
 
 
   <br>
