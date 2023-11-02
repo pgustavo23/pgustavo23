@@ -17,7 +17,7 @@ Oi, eu sou o Gustavo!
   
    <h3 align="center">
   
-  ![image](https://github.com/gustavo23pg/gustavo23pg/assets/52055399/59a4b3d9-4a3b-40ac-8ef6-8b99a2ee405c)
+  ![image](https://github.com/gustavo23pg/gustavo23pg/assets/52055399/59a4b3d9-4a3b-40ac-8ef6-8b99a2ee405c.gif)
 
 
   <br>
