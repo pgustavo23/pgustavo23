@@ -17,7 +17,7 @@ Oi, eu sou o Gustavo!
   
    <h3 align="center">
   
-  <img src="https://media.tenor.com/uUNcnHwYJQEAAAAi/running-pikachu-transparent-snivee.gif" width="40" height="40" >
+  <img src="https://media.tenor.com/uUNcnHwYJQEAAAAi/running-pikachu-transparent-snivee.gif" width="40" height="40"/ >
 
   <br>
     
