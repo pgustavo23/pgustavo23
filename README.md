@@ -17,7 +17,7 @@ Oi, eu sou o Gustavo!
   
    <h3 align="center">
   
-  ![Pikachu]([https://pa1.narvii.com/6545/89f1e14806ffae9e301696386406908c3bb8b454_hq.gif](https://i.pinimg.com/originals/fe/61/dc/fe61dc2b7ef08a538b906eced7fa5cb5.gif))
+  ![Pikachu](https://i.pinimg.com/originals/fe/61/dc/fe61dc2b7ef08a538b906eced7fa5cb5.gif)
   
   <br>
     
