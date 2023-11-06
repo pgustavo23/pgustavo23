@@ -4,14 +4,14 @@
      <img width="80px" src="https://github.com/gustavo23pg/gustavo23pg/blob/main/pikachu.gif/">
    
 </h1>
-  <h4>
+<h4>
       
   * Estou iniciando como Dev Full Stack por meio da [Digital Inovation One](https://web.dio.me/users/gustavo_perdigao23?tab=achievements). 
     
   * Aperfeiçoando meus conhecimentos através da plataforma da [Soul Code Academy](https://soulcode.com/).
     
  <hr>
-  </h4>
+</h4>
  
 ## 👨‍💻 Estudando atualmente:
 
@@ -21,10 +21,11 @@
   Potência Tech iFood - Programação do Zero 
 </h4>
 
+  Algumas linguagens trabalhadas dentro do Bootcamp:
+ 
+<br>
+<br>
 
-Algumas linguagens trabalhadas dentro do Bootcamp:
-<br>
-<br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
