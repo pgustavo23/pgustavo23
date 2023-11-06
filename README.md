@@ -74,7 +74,7 @@ Através deste curso estou aprendendo e aperfeiçoando algumas skills como:
 <br><br><br>
 </h4>
 
-### 🖥️ Me encontre no: 
+## 🖥️ Me encontre no: 
   [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-perdigão-0b6a0123b)](https://www.linkedin.com/in/gustavo-perdigão-0b6a0123b)
   [![GitHub pgustavo23](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/pgustavo23)](https://github.com/pgustavo23)
   
