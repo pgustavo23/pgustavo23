@@ -70,7 +70,7 @@ Através deste curso estou aprendendo e aperfeiçoando algumas skills como:
 
 <h4 align="center">
 
-<img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=pgustavo23&theme=great-gatsby&show_icons=true">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgustavo23&show_icons=true&theme=great-gatsby)
 <br><br><br>
 </h4>
 
@@ -79,7 +79,7 @@ Através deste curso estou aprendendo e aperfeiçoando algumas skills como:
   [![GitHub pgustavo23](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/pgustavo23)](https://github.com/pgustavo23)
   
   
-  <br>
+<br>
 
 
 
