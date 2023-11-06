@@ -70,7 +70,7 @@ Através deste curso estou aprendendo e aperfeiçoando algumas skills como:
 
 <h4 align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgustavo23&show_icons=true&theme=great-gatsby)
+[![pgustavo23 GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pgustavo23&show_icons=true&title_color=ffbf00&border_color=ffbf00&icon_color=ffbf00&text_color=fffefe&theme=dark#gh-dark-mode-only)](https://github.com/pgustavo23/github-readme-stats#gh-dark-mode-only)
 <br><br><br>
 </h4>
 
