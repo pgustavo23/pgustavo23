@@ -1,10 +1,9 @@
-
-  <h1 align="center">  
+<h1 align="center">  
      <img width="80px" src="https://github.com/gustavo23pg/gustavo23pg/blob/main/pikachu.gif/">
       Olá, eu sou o Gustavo!
      <img width="80px" src="https://github.com/gustavo23pg/gustavo23pg/blob/main/pikachu.gif/">
    
-  </h1>
+</h1>
   <h4>
       
   * Estou iniciando como Dev Full Stack por meio da [Digital Inovation One](https://web.dio.me/users/gustavo_perdigao23?tab=achievements). 
