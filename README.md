@@ -4,6 +4,11 @@
      <img width="80px" src="https://github.com/gustavo23pg/gustavo23pg/blob/main/pikachu.gif/">
    
 </h1>
+<h4 align="center">
+
+`Em busca de novos desafios, dedicando para adquirir novos conhecimentos como desenvolvedor!`
+<br>
+</h4>
 <h4>
       
   * Estou iniciando como Dev Full Stack por meio da [Digital Inovation One](https://web.dio.me/users/gustavo_perdigao23?tab=achievements). 
@@ -17,11 +22,11 @@
 
 
 ### Bootcamp [Digital Inovation One](https://web.dio.me/users/gustavo_perdigao23?tab=achievements): 
-<h4>
-  Potência Tech iFood - Programação do Zero 
-</h4>
 
-  Algumas linguagens trabalhadas dentro do Bootcamp:
+**Potência Tech iFood - Programação do Zero**
+
+
+Algumas linguagens trabalhadas dentro do Bootcamp:
  
 <br>
 <br>
@@ -35,9 +40,8 @@
 <br>
 
 ### Curso [Soul Code Academy](https://soulcode.com/):
-<h4>
-  Curso Soul Code + Gran
-</h4>
+
+**Curso Soul Code + Gran**
 
 Através deste curso estou aprendendo e aperfeiçoando algumas skills como:
 <br>
@@ -55,7 +59,7 @@ Através deste curso estou aprendendo e aperfeiçoando algumas skills como:
 <br>
 <hr>
 
-#### IDE's e Frameworks utilizados nos cursos:
+**IDE's e Frameworks utilizados nos cursos:**
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -63,16 +67,12 @@ Através deste curso estou aprendendo e aperfeiçoando algumas skills como:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 <hr>
 <br>
-<br>
 
 <h4 align="center">
 
 <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=pgustavo23&theme=great-gatsby&show_icons=true">
 <br><br><br>
-
-`Em busca de novos desafios, dedicando para adquirir novos conhecimentos como desenvolvedor!`
-<br>
-<br>
+</h4>
 
 ### 🖥️ Me encontre no: 
   [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-perdigão-0b6a0123b)](https://www.linkedin.com/in/gustavo-perdigão-0b6a0123b)
@@ -80,7 +80,7 @@ Através deste curso estou aprendendo e aperfeiçoando algumas skills como:
   
   
   <br>
-</h4>
+
 
 
 
