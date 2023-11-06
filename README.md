@@ -33,4 +33,6 @@ Oi, eu sou o Gustavo!
   * MySQL
   * .Net
   * C#
+
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pgustavo23&theme=cobalt&show_icons=true" />
  
