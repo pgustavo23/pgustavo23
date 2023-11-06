@@ -34,5 +34,5 @@ Oi, eu sou o Gustavo!
   * .Net
   * C#
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pgustavo23&theme=cobalt&show_icons=true" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pgustavo23&theme=great-gatsby&show_icons=true" />
  
