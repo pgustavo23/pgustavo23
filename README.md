@@ -70,10 +70,10 @@ Através deste curso estou aprendendo e aperfeiçoando algumas skills como:
 
 <h4 align="center">
      <a href="https://github.com/pgustavo23">
-           <img height=160 src="https://github-readme-stats.vercel.app/api?username=pgustavo23&border_radius=10&show_icons=true&rank_icon=github&icon_color=ffd700&bg_color=30,ff6600,ffcc00&title_color=fff&text_color=fff&ring_color=fff&hide_border=true" />
+           <img height=170 src="https://github-readme-stats.vercel.app/api?username=pgustavo23&border_radius=10&show_icons=true&rank_icon=github&icon_color=ffd700&bg_color=30,ff6600,ffcc00&title_color=fff&text_color=fff&ring_color=fff&hide_border=true" />
      </a>
      <a href="https://github.com/pgustavo23">
-            <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs?username=pgustavo23&langs_count=8&layout=compact&border_radius=6&bg_color=30,ffcc00,ff6600&title_color=fff&text_color=fff&hide_border=true" />
+            <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs?username=pgustavo23&langs_count=8&layout=compact&border_radius=6&bg_color=30,ffcc00,ff6600&title_color=fff&text_color=fff&hide_border=true" />
      </a>
 </h4>
 
