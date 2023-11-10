@@ -4,10 +4,10 @@
      <img width="80px" src="https://github.com/gustavo23pg/gustavo23pg/blob/main/pikachu.gif/">
      <h4 align="center">
      <a href="https://github.com/pgustavo23">
-           <img height=165 src="https://github-readme-stats.vercel.app/api?username=pgustavo23&border_radius=10&show_icons=true&rank_icon=github&icon_color=66ff0d&bg_color=30,111,444&title_color=66ff0d&text_color=fff&ring_color=66ff0d&border_color=66ff0d" />
+           <img height=165 src="https://github-readme-stats.vercel.app/api?username=pgustavo23&border_radius=10&show_icons=true&rank_icon=github&icon_color=f3d500&bg_color=30,111,444&title_color=f3d500&text_color=fff&ring_color=f3d500&border_color=f3d500" />
      </a>
      <a href="https://github.com/pgustavo23">
-            <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs?username=pgustavo23&langs_count=8&layout=compact&border_radius=6&bg_color=30,444,111&title_color=66ff0d&text_color=fff&border_color=66ff0d" />
+            <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs?username=pgustavo23&langs_count=8&layout=compact&border_radius=6&bg_color=30,444,111&title_color=f3d500&text_color=fff&border_color=f3d500" />
      </a>
 </h4>
    
