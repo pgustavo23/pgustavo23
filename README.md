@@ -66,18 +66,16 @@ Através deste curso estou aprendendo e aperfeiçoando algumas skills como:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 <hr>
-<br>
 
 
-<div align="center">
+<h4 align="center">
      <a href="https://github.com/pgustavo23">
-           <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pgustavo23&border_radius=10&show_icons=true&rank_icon=github&icon_color=ffd700&bg_color=30,ff6600,ffcc00&title_color=fff&text_color=fff&ring_color=fff&hide_border=true" />
+           <img height=160 src="https://github-readme-stats.vercel.app/api?username=pgustavo23&border_radius=10&show_icons=true&rank_icon=github&icon_color=ffd700&bg_color=30,ff6600,ffcc00&title_color=fff&text_color=fff&ring_color=fff&hide_border=true" />
      </a>
      <a href="https://github.com/pgustavo23">
-            <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pgustavo23&langs_count=8&layout=compact&border_radius=6&bg_color=30,ffcc00,ff6600&title_color=fff&text_color=fff&hide_border=true" />
+            <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs?username=pgustavo23&langs_count=8&layout=compact&border_radius=6&bg_color=30,ffcc00,ff6600&title_color=fff&text_color=fff&hide_border=true" />
      </a>
-
-</div>
+</h4>
 
 ## 🖥️ Me encontre no: 
   [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-perdigão-0b6a0123b)](https://www.linkedin.com/in/gustavo-perdigão-0b6a0123b)
