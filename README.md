@@ -28,6 +28,9 @@
  
 ## 👨‍💻 Estudando atualmente:
 
+### Graduação em Análise e Desenvolvimento de Sistemas pela Gran Faculdade
+
+<hr>
 
 ### Bootcamp [Digital Inovation One](https://web.dio.me/users/gustavo_perdigao23?tab=achievements): 
 
