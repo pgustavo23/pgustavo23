@@ -1,13 +1,12 @@
 <h1 align="center">  
-     <img width="80px" src="https://github.com/gustavo23pg/gustavo23pg/blob/main/pikachu.gif/">
-      Olá, eu sou o Gustavo!
-     <img width="80px" src="https://github.com/gustavo23pg/gustavo23pg/blob/main/pikachu.gif/">
+     Olá, eu sou o Gustavo Perdigão!
      <h4 align="center">
      <a href="https://github.com/pgustavo23">
-           <img height=165 src="https://github-readme-stats.vercel.app/api?username=pgustavo23&hide_border=true&border_radius=8&show_icons=true&rank_icon=github&icon_color=f3d500&bg_color=30,222,555&title_color=f3d500&text_color=fff&ring_color=f3d500" />
+           <img height=165 src="https://github-readme-stats.vercel.app/api?username=pgustavo23&hide_border=true&border_radius=8&show_icons=true&rank_icon=github&icon_color=36baa2&bg_color=484d5b&title_color=36baa2&text_color=fff&ring_color=36baa2" />
      </a>
+     <img src="https://backstage.io/animations/backstage-software-catalog-icon-1.gif" alt="Cópia de arquivo do Backstage TechDocs GIF" height=150>
      <a href="https://github.com/pgustavo23">
-            <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs?username=pgustavo23&langs_count=8&layout=compact&hide_border=true&bg_color=30,555,222&title_color=f3d500&text_color=fff&border_color=f3d500" />
+            <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs?username=pgustavo23&langs_count=8&layout=compact&hide_border=true&bg_color=484d5b&title_color=36baa2&text_color=fff&border_color=36baa2" />
      </a>
 </h4>
    
