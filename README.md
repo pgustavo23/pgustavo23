@@ -1,7 +1,7 @@
-<h1 align="center">  
-     <img align="center" src="https://backstage.io/animations/backstage-software-catalog-icon-1.gif" alt="Cópia de arquivo do Backstage TechDocs GIF" height=100>
-     <br>
+<h1 align="center"> 
+     <img align="end" src="https://backstage.io/animations/backstage-software-catalog-icon-1.gif" alt="Cópia de arquivo do Backstage TechDocs GIF" height=100/>
      Olá, eu sou o Gustavo Perdigão!
+     <img align="end" src="https://backstage.io/animations/backstage-software-catalog-icon-1.gif" alt="Cópia de arquivo do Backstage TechDocs GIF" height=100/>
      <h4 align="center">
      <a href="https://github.com/pgustavo23">
            <img height=165 src="https://github-readme-stats.vercel.app/api?username=pgustavo23&hide_border=true&border_radius=8&show_icons=true&rank_icon=github&icon_color=36baa2&bg_color=484d5b&title_color=36baa2&text_color=fff&ring_color=36baa2" />
