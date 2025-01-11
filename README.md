@@ -1,4 +1,4 @@
-<img align="left" src="https://backstage.io/animations/backstage-software-catalog-icon-1.gif" alt="Cópia de arquivo do Backstage TechDocs GIF" height=150>
+<img src="https://backstage.io/animations/backstage-software-catalog-icon-1.gif" alt="Cópia de arquivo do Backstage TechDocs GIF" height=150>
 <h1 align="center">  
      Olá, eu sou o Gustavo Perdigão!
      <h4 align="center">
