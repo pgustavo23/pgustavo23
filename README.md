@@ -1,5 +1,6 @@
 <h1 align="center">  
-     <img align="end" src="https://backstage.io/animations/backstage-software-catalog-icon-1.gif" alt="Cópia de arquivo do Backstage TechDocs GIF" height=80>
+     <img align="center" src="https://backstage.io/animations/backstage-software-catalog-icon-1.gif" alt="Cópia de arquivo do Backstage TechDocs GIF" height=100>
+     <br>
      Olá, eu sou o Gustavo Perdigão!
      <h4 align="center">
      <a href="https://github.com/pgustavo23">
